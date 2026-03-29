@@ -53,12 +53,6 @@
 
 ---
 
-### 🐍 Contributions Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndreySamoylenko15/AndreySamoylenko15/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ### 📫 Let's Connect
